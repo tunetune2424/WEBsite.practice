@@ -97,7 +97,7 @@ img.logo {
 
 }
 #home {
-  background-image: url(/images/01FV.png);
+  background-image: url(https://github.com/tunetune2424/WEBsite.practice/blob/main/01FV.png?raw=true);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
